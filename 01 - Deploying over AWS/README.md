@@ -16,7 +16,6 @@ This project is created on Oracle VM box with Ubuntu OS.
 - docker-ce_19.03.9~3-0~ubuntu-bionic_amd64.deb
 - docker-ce-cli_19.03.9~3-0~ubuntu-bionic_amd64.deb
 - containerd.io_1.2.13-2_amd64.deb
-
 ```
 
 Provide necessary permission to docker-
