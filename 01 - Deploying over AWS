@@ -1,7 +1,23 @@
-#TSAI-Extensive Vision AI - Phase 2
+# Deploying over AWS
 
-These are the worked assignments of Extensive Vision AI Phase 2 course.
+This is to deploy MobileNet v2 model on AWS Lambda.
 
-## Deploying over AWS
+Serverless web framework is used to build the application. The application is available as a API service hosted on AWS Lambda.
 
-This is to deploy MobileNet C2 Deep Neural Network model on AWS Lambda.
+## Project Setup
+
+This project is created on Oracle VM box with Ubuntu OS.
+
+### Install Docker 
+
+Download and install the following files - 
+`
+* docker-ce_19.03.9~3-0~ubuntu-bionic_amd64.deb
+* docker-ce-cli_19.03.9~3-0~ubuntu-bionic_amd64.deb
+* containerd.io_1.2.13-2_amd64.deb
+`
+
+
+
+
+
