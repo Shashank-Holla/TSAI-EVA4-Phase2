@@ -1,4 +1,4 @@
-#TSAI-Extensive Vision AI - Phase 2
+# TSAI-Extensive Vision AI - Phase 2
 
 These are the worked assignments of Extensive Vision AI Phase 2 course.
 
