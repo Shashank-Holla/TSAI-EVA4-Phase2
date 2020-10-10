@@ -4,10 +4,10 @@ The objective here is to train SR-GAN (Super Resolution- Generative Adversial Ne
 
 ## Model hyperparameters
 
-Optimizer : Adam
-Loss function : Perception Loss + Adversial Loss
-Batch size : 64
-Epochs : 10
+* Optimizer : Adam
+* Loss function : Content Loss + Adversial Loss
+* Batch size : 64
+* Epochs : 10
 
 ## Model Architecture
 
