@@ -50,8 +50,8 @@ Attention is a way for a model to choose only those parts of the encoding that i
       <TD>a man in jeans and a blue shirt is walking down a sidewalk</TD>
    </TR>
   <TR>
-      <TD><img src="/images/imageAugmentation_bgfg.jpg" alt="image_2"	title="image_2" width="300" height="300" /></TD>
-      <TD>a man in jeans and a blue shirt is walking down a sidewalk</TD>
+      <TD><img src="images/bike.jpg" alt="image_2"	title="image_2" width="400" height="200" /></TD>
+      <TD>a man in a blue helmet riding a bike</TD>
    </TR>
 </TABLE>
 
